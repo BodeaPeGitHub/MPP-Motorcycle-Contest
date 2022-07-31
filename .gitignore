@@ -1,0 +1,30 @@
+*.json
+*.hprof
+
+# Other git repositoryes
+.git
+.github
+
+
+# Build, .gradle and .idea files.
+build
+.gradle
+.idea
+.vs
+bin
+obj
+target
+
+# Packages
+packages
+
+
+# Personalized
+
+/c#/test
+/c#/identifier.sqlite
+
+
+# Node.js
+
+node_modules
